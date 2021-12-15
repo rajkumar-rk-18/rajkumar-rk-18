@@ -1,6 +1,9 @@
 <h1 align="center">Raja Kumaran R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
        <h4>Frontend Developer 👨‍💻</h4></h1>
        
+ #### Reach me on
+  <a align="center" href="https://www.instagram.com/__rajkumar_____rk/"><img height="50" src="https://github.com/hussainweb/hussainweb/raw/main/icons/instagram.png"></a>&nbsp;&nbsp;&nbsp;
+       
  #### Languages
  
  
