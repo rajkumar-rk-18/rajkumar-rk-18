@@ -1,23 +1,6 @@
-<h1>Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
-       <h4>Full Stack Developer 👨‍💻</h4></h1>
+<h1>Raja Kumaran R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
+       <h4>Frontend Developer 👨‍💻</h4></h1>
        
-      
-
-   [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark&layout=compact&langs_count=6" />]()
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
-
-
-#### Badges
- [<img src="https://www.codewars.com/users/RiyazurRazak/badges/large" />](https://www.codewars.com/users/RiyazurRazak)
-
-
  #### Languages
  
  
@@ -67,10 +50,10 @@
 
 
 #### Stats 
- [![](https://github-readme-streak-stats.herokuapp.com/?user=RiyazurRazak&theme=blue-green)]()
+ [![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-rk-18&theme=blue-green)]()
  <br />
  <br />
- [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
+ [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=rajkumar-rk-18&theme=dark" />]()
 
 
   
