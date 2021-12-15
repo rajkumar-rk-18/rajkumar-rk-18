@@ -41,7 +41,7 @@
  [![](https://github-readme-streak-stats.herokuapp.com/?user=rajkumar-rk-18&theme=blue-green)]()
  <br />
  <br />
- [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=rajkumar-rk-18&theme=dark" />]()
+ [<img align="left" alt="Raja Kumaran R Status" src="https://github-readme-stats.vercel.app/api?username=rajkumar-rk-18&theme=dark" />]()
 
 
   
