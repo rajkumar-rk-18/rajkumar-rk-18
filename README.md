@@ -2,8 +2,8 @@
        <h4> ENGINEER 👨‍💻</h4></h1>
        
  #### Reach me on
-  <a align="center" href="https://www.instagram.com/__rajkumar_____rk/"><img height="50" src="![image](https://github.com/rajkumar-rk-18/rajkumar-rk-18/assets/96175281/75214480-5163-4b32-a77b-3ccb0876fd5b)
-"></a>&nbsp;&nbsp;&nbsp;
+  <a align="center" href="https://www.linkedin.com/in/raja-kumaran-r-7a706121b/"><img height="50" width="60" src="https://www.anuncio.agency/wp-content/uploads/2018/07/gif-linkedin.gif" /></a>
+            <a align="center" href="https://www.instagram.com/__rajkumar_____rk/"><img height="50" src="https://i.pinimg.com/originals/b6/ab/7c/b6ab7c8c68a2d7e6ff2f95b388b7fd6b.gif"></a>
        
  #### Languages
  
